@@ -1,49 +1,79 @@
-<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/joshmadakor1">IT Support </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Infrastructure</a></h1>
+ <div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# Mohammed Benouis
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+### IT Support • Networking • IT Infrastructure
 
-<h2>📺YouTube Videos</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-benouis)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@stilllmotech)
 
-- [Spanning Tree Protocol (STP) Explained | How Switches Prevent Network Loops](https://youtu.be/hnkdZrSJJNg?si=npRSDmEDPOWAHd72)
-- [Using CCNA Knowledge to Solve a Real-World IT Ticket](https://youtu.be/p2PTZITMEo8?si=SeIUnGVpiQOj1IWH)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Focus-Networking-2ea44f?style=flat-square)
+![IT Support](https://img.shields.io/badge/Focus-IT_Support-blue?style=flat-square)
 
-<h2> 🤝 Connect with me:</h2>
+</div>
 
-<a href="https://www.youtube.com/@stilllmotech">
-  <img align="left" alt="STILL MO TECH | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+---
+
+## 👨‍💻 Software Development Projects
+
+### 🐍 Python
+
+- **Data Structures and Algorithms Practice (AlgoExpert)**
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+### 🌐 Full Stack Development
+
+- **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) *(Potentially NSFW)*
+
+### 💻 PowerShell
+
+- [Windows EventLog: Failed RDP Logins Source IP to Full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+### ⚙️ C# (.NET Desktop Applications)
+
+- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+---
+
+## 📺 YouTube Videos
+
+<div align="center">
+
+<a href="https://youtu.be/hnkdZrSJJNg">
+<img src="https://img.youtube.com/vi/hnkdZrSJJNg/hqdefault.jpg" width="400" alt="Spanning Tree Protocol Explained"/>
 </a>
+
+**Spanning Tree Protocol (STP) Explained**
+
+<br/>
+
+<a href="https://youtu.be/p2PTZITMEo8">
+<img src="https://img.youtube.com/vi/p2PTZITMEo8/hqdefault.jpg" width="400" alt="Using CCNA Knowledge to Solve a Real-World IT Ticket"/>
+</a>
+
+**Using CCNA Knowledge to Solve a Real-World IT Ticket**
+
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-benouis">
-  <img align="left" alt="Mohammed Benouis | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed_Benouis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.youtube.com/@stilllmotech">
+<img src="https://img.shields.io/badge/YouTube-STILL_MO_TECH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
