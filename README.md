@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/joshmadakor1">IT Infrastructure </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a>, <a href="https://www.youtube.com/c/joshmadakor">System Administration</a></h1>
+<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/joshmadakor1">IT Support </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Networking</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Infrastructure</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
