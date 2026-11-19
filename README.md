@@ -35,23 +35,36 @@
 
 ---
 
-## 📺 YouTube Videos
+## 📺 Featured Videos
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <a href="https://www.youtube.com/watch?v=hnkdZrSJJNg">
-<img src="https://img.youtube.com/vi/hnkdZrSJJNg/hqdefault.jpg" width="400" alt="Spanning Tree Protocol Explained">
+<img src="https://img.youtube.com/vi/hnkdZrSJJNg/hqdefault.jpg" width="100%" alt="Spanning Tree Protocol Explained">
 </a>
 
 **Spanning Tree Protocol (STP) Explained**
 
-<br>
+<sub>Networking</sub>
+
+</td>
+<td width="50%" align="center">
 
 <a href="https://www.youtube.com/watch?v=p2PTZITMEo8">
-<img src="https://img.youtube.com/vi/p2PTZITMEo8/hqdefault.jpg" width="400" alt="Using CCNA Knowledge to Solve a Real-World IT Ticket">
+<img src="https://img.youtube.com/vi/p2PTZITMEo8/hqdefault.jpg" width="100%" alt="Using CCNA Knowledge to Solve a Real-World IT Ticket">
 </a>
 
 **Using CCNA Knowledge to Solve a Real-World IT Ticket**
+
+<sub>IT Support</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
