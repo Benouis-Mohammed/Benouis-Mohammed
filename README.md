@@ -12,8 +12,8 @@
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/ff0869a7-4f78-4829-b829-15288d041410/public_url)
 [![Verify Credential](https://img.shields.io/badge/Verify_Credential-Credly-2ea44f?style=flat-square)](https://www.credly.com/badges/ff0869a7-4f78-4829-b829-15288d041410/public_url)
 
-![Networking](https://img.shields.io/badge/Focus-Networking-2ea44f?style=flat-square)
-![IT Support](https://img.shields.io/badge/Focus-IT_Support-blue?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-2ea44f?style=flat-square)
+![IT Support](https://img.shields.io/badge/IT_Support-blue?style=flat-square)
 
 </div>
 
