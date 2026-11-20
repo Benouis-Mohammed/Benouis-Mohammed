@@ -28,7 +28,7 @@ Designed and deployed a simulated small-business IT infrastructure using Windows
 
 **Technologies:** Windows Server 2019 • Active Directory • DNS • DHCP • NAT • Group Policy • PowerShell
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/MOHTECH-Active-Directory-Infrastructure.git)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/MOHTECH-Active-Directory-Infrastructure/blob/main/README.md)
 
 ---
 
