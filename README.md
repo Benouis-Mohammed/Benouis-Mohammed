@@ -4,7 +4,7 @@
 
 ### IT Support • Networking • IT Infrastructure
 
-*I love fixing things, solving problems, and learning how technology works.*
+*fixing things, solving problems, and learning how technology works.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-benouis)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stilllmotech)
