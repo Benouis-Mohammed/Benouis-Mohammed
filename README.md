@@ -19,7 +19,19 @@
 
 ---
 
-## 🖥️ IT Infrastructure & Networking Projects
+
+### 🏢 Windows Server & Active Directory Infrastructure
+
+**MOHTECH Solutions — IT Infrastructure Deployment**
+
+Designed and deployed a simulated small-business IT infrastructure using Windows Server 2019. Implemented centralized user management, network services, departmental access control, and workstation policies.
+
+**Technologies:** Windows Server 2019 • Active Directory • DNS • DHCP • NAT • Group Policy • PowerShell
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/MOHTECH-Active-Directory-Infrastructure)
+
+---
+
 
 ### 🏢 Windows Server & Active Directory
 
