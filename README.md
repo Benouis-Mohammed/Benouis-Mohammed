@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm Mohammed Benouis
 
@@ -18,6 +18,9 @@
 </div>
 
 ---
+
+## 🛠️ Projects
+
 
 
 ### 🏢 Windows Server & Active Directory Infrastructure
