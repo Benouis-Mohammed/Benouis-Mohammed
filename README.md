@@ -32,11 +32,6 @@ Designed and deployed a simulated small-business IT infrastructure using Windows
 
 ---
 
-
-### 🏢 Windows Server & Active Directory
-
-*Coming soon — MOHTECH Solutions Active Directory Infrastructure*
-
 ### 🌐 Networking
 
 *Projects coming soon.*
