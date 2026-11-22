@@ -42,7 +42,7 @@ Designed and implemented a redundant enterprise network in EVE-NG using Cisco vi
 
 **Technologies:** Cisco IOS • VLANs • HSRP • OSPF • EtherChannel (LACP) • PVST • DHCP • NAT/PAT • EVE-NG
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/-MOHTECH-Solutions-Network-Infrastructure)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/-MOHTECH-Solutions-Network-Infrastructure/blob/main/README.md)
 
 ---
 
