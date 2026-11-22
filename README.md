@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Mohammed Benouis
@@ -21,8 +22,6 @@
 
 ## 🛠️ Projects
 
-
-
 ### 🏢 Windows Server & Active Directory Infrastructure
 
 **MOHTECH Solutions — IT Infrastructure Deployment**
@@ -35,9 +34,17 @@ Designed and deployed a simulated small-business IT infrastructure using Windows
 
 ---
 
-### 🌐 Networking
+### 🌐 Enterprise Network Infrastructure
 
-*Projects coming soon.*
+**MOHTECH Solutions — Enterprise Network Design & Implementation**
+
+Designed and implemented a redundant enterprise network in EVE-NG using Cisco virtual devices. Configured departmental VLANs, inter-VLAN routing, HSRP gateway redundancy, EtherChannel, OSPF, DHCP, and NAT/PAT for Internet connectivity.
+
+**Technologies:** Cisco IOS • VLANs • HSRP • OSPF • EtherChannel (LACP) • PVST • DHCP • NAT/PAT • EVE-NG
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/-MOHTECH-Solutions-Network-Infrastructure)
+
+---
 
 ### 🔐 Cybersecurity
 
