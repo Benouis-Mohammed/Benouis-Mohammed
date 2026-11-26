@@ -34,6 +34,18 @@ Designed and deployed a simulated small-business IT infrastructure using Windows
 
 ---
 
+### 🎫 GLPI Helpdesk & IT Asset Management
+
+**MOHTECH Solutions — IT Support & Infrastructure**
+
+Deployed GLPI 12.0.2 on Ubuntu Linux using Apache2, PHP, and MariaDB. Configured departments and user accounts, organized an inventory of computers and printers, and tested the helpdesk workflow from employee incident submission through technician assignment and ticket closure.
+
+**Technologies:** Ubuntu Linux • GLPI • Apache2 • PHP • MariaDB • VMware Workstation • IT Asset Management • Helpdesk & Ticketing
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benouis-Mohammed/MOHTECH-SOLUTIONS-GLPI-Helpdesk/blob/main/README.md)
+
+---
+
 ### 🌐 Enterprise Network Infrastructure
 
 **MOHTECH Solutions — Enterprise Network Design & Implementation**
